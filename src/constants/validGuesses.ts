@@ -50,6 +50,18 @@ export const VALIDGUESSES = [
   'bonga',
   'boolo',
   'boose',
+  'bouli',
+  'buada',
+  'buluu',
+  'bunaa', 
+  'bunei',
+  'bunua',
+  'buuia',
+  'buusi',
+  'daaea',
+  'daaia',
+  'daalo',
+  'daane',
 ]
 
 if (CONFIG.normalization) {
