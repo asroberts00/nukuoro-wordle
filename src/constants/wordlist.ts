@@ -43,7 +43,7 @@ export const WORDS = [
   'beaha', 
   'bebea',
   'beluu',
-  'bidoa'
+  'bidoa',
 ]
 
 if (CONFIG.normalization) {
