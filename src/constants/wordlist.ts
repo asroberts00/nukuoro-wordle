@@ -44,6 +44,12 @@ export const WORDS = [
   'bebea',
   'beluu',
   'bidoa',
+  'biigi',
+  'biini',
+  'binga',
+  'bonga',
+  'boolo',
+  'boose',
 ]
 
 if (CONFIG.normalization) {
