@@ -1,6 +1,6 @@
 {
     "about": "About this game",
-    "gameName": "Word Guessing Game - {{language}}",
+    "gameName": "Word Guessing Game - Nukuoro",
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "Not enough letters",
@@ -22,7 +22,7 @@
     "newWordCountdown": "New word in",
     "share": "Share",
     "winMessages": [
-        "Great Job!",
+        "Hegau danuaa!",
         "Awesome",
         "Well done!"
     ],
